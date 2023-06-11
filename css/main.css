@@ -96,7 +96,7 @@ body {
 }
 
 body::before{
-  content: url(/images/pattern-background-mobile.svg);
+  content: url(../images/pattern-background-mobile.svg);
   position: absolute;
   width:100%;
 }
@@ -212,7 +212,7 @@ color:#1F2E55;
 @media screen and (min-width:64rem) {
 
   body::before{
-    content: url(/images/pattern-background-desktop.svg);
+    content: url(../images/pattern-background-desktop.svg);
     position: absolute;
     width:100%;
   }
