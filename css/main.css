@@ -90,7 +90,7 @@ select {
 body {
   
   background-color:var(--Pale-blue);
-  background-image: url(/images/pattern-background-mobile.svg);
+  background-image: url(../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   background-size: contain;
   font-family: 'Red Hat Display', sans-serif;
@@ -204,7 +204,7 @@ color:#1F2E55;
 
   body{
   background-color:var(--Pale-blue);
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(../images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
