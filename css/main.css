@@ -110,6 +110,7 @@ body {
 .hero-photo {
   height: 160px;
   border-radius: 2rem 2rem 0 0;
+  object-fit:cover;
 }
 
 main {
